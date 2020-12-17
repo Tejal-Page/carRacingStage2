@@ -1,3 +1,8 @@
+/*
+-LOAD IMAGES OF CAR IN PRELOAD
+-ADD IMAGES TO CAR SPRTITES
+
+*/
 var canvas, backgroundImage;
 
 var gameState = 0;
