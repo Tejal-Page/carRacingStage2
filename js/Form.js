@@ -5,6 +5,7 @@ class Form {
     this.button = createButton('Play');
     this.greeting = createElement('h2');
     this.title = createElement('h2');
+    this.reset = createButton('reset')
   }
   hide(){
     this.greeting.hide();
